@@ -1,7 +1,7 @@
 import UsersList from "../components/UsersList";
 
 function Users() {
-  const USERS = [
+  const USERS:any = [
     {
       id: 'u1',
       name: 'Max Schwarz',

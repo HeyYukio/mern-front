@@ -23,6 +23,6 @@ function UsersList(props:any){
       ))}
     </ul>
   );
-};
+}
 
 export default UsersList;
